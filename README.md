@@ -33,7 +33,7 @@ Forget manual deployment. **Be smarter. Not harder.**
 Run this absolute masterpiece of a command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/joyaltecher/Drosera-Auto-Bot/main/drosera.sh)
+bash <(curl -s https://github.com/joyaltecher/Drosera-Auto-Bot.git)
 ```
 
 If you don’t copy-paste this, you’re doing life wrong.
